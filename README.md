@@ -51,7 +51,7 @@ If you are using Google Colab, most of these libraries are already installed.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/your-username/PCA_IMAGE.git
 ```
 
 2. Open the notebook in Google Colab or Jupyter Notebook.
