@@ -245,17 +245,6 @@ project-folder/
 └── requirements.txt
 ```
 
-## requirements.txt
-
-You can create a `requirements.txt` file with:
-
-```text
-numpy
-matplotlib
-pillow
-scikit-learn
-```
-
 ## Applications
 
 This project can be useful for:
